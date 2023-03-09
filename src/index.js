@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Login from './pages/login';
+import Login from './pages/Login';
 import { BrowserRouter } from 'react-router-dom';
 // import reportWebVitals from './reportWebVitals';
 
